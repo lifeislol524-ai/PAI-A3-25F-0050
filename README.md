@@ -1,6 +1,6 @@
 # PAI Assignment 3 - Programming for AI
 
-**Name:** Muhammad Shavaiz Ul Hasan
+**Name:** Ali Sher
 **ID:** 25F-0050
 
 ## How to run
